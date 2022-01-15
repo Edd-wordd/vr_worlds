@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+h1{
+  font-family: "bigelow rules";
+  font-size: 72px;
+}
 
 .App-logo {
   height: 40vmin;
