@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vr_worlds/static/css/main.8e1384c2.css",
+    "main.js": "/vr_worlds/static/js/main.f401a453.js",
+    "static/js/787.3adc76c7.chunk.js": "/vr_worlds/static/js/787.3adc76c7.chunk.js",
+    "index.html": "/vr_worlds/index.html",
+    "main.8e1384c2.css.map": "/vr_worlds/static/css/main.8e1384c2.css.map",
+    "main.f401a453.js.map": "/vr_worlds/static/js/main.f401a453.js.map",
+    "787.3adc76c7.chunk.js.map": "/vr_worlds/static/js/787.3adc76c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e1384c2.css",
+    "static/js/main.f401a453.js"
+  ]
+}
